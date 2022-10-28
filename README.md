@@ -1,5 +1,8 @@
 # metabase-cubejs-driver
 
+> Since May 2022, Cube has the official [SQL API](https://cube.dev/docs/backend/sql) that works with Metabase, making this driver unnecessary.  
+> Please see the docs on [using Cube with Metabase](https://cube.dev/docs/config/downstream/metabase). 
+
 [![Latest Release](https://img.shields.io/github/v/release/pyrooka/metabase-cubejs-driver)](https://img.shields.io/github/v/release/pyrooka/metabase-cubejs-driver)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-05B8CC.svg)](https://raw.githubusercontent.com/pyrooka/metabase-cubejs-driver/master/LICENSE)
 
